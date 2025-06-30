@@ -54,7 +54,7 @@ Apuntes y ejemplos
   - [Tratamiento de latitud y longitud](https://github.com/janacor/Programacion/blob/main/e2e060_spatial_clustering.ipynb)
 - [Entrenamiento y evaluación del modelo](https://github.com/janacor/Programacion/blob/main/e2e070_model_evaluation.ipynb)
 - [Optimización de hiperparámetros](https://github.com/janacor/Programacion/blob/main/e2e080_hyperparameters.ipynb)
-- [Probando más parámetros con RandomizedSearchCV](https://github.com/janacor/Programacion/blob/main/e2e081_hyperparameters_tarea.ipynb)
+- [Probando más parámetros con RandomizedSearchCV](https://github.com/janacor/Programacion/blob/main/e2e081_hyperparameters_tarea.ipynb)\
 **Otro problema de regresión: esperanza de vida**
 - [Análisis de datos]
 - [Análisis de preprocesamiento de datos (en particular valores perdidos)]
