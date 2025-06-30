@@ -18,15 +18,15 @@ Apuntes y ejemplos
 
 **Algoritmos básicos de machine learning**
 
-- K-Nearest Neighbors (KNN)
+- [K-Nearest Neighbors (KNN)](https://github.com/janacor/Programacion/blob/main/knn.md)
 
-- Regresión lineal simple
+- [Regresión lineal simple](https://github.com/janacor/Programacion/blob/main/regresion_lineal_simple%20(1).ipynb)
 
-- Clasificación con regresión logística
+- [Clasificación con regresión logística](https://github.com/janacor/Programacion/blob/main/regresion_logistica%20(1).ipynb)
 
-- Árboles de decisión
+- [Árboles de decisión](https://github.com/janacor/Programacion/blob/main/decision_tree%20(1).ipynb)
 
-- Clustering con K-means
+- [Clustering con K-means](https://github.com/janacor/Programacion/blob/main/kmeans%20(1).ipynb)
 
 **Modelos simples con Scikit-learn**
 
