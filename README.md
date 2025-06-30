@@ -33,7 +33,7 @@ Apuntes y ejemplos
 Conjuntos de entrenamiento y test / Overfitting\
 Clasificación
     - Regresión logística sobre Iris Toy Dataset de Scikit-learn
-    - Comparación de algoritmos de clasificación\
+    - Comparación de algoritmos de clasificación
 Regresión
     - Regresión lineal sobre diabetes Toy Dataset de Scikit-learn\
 Clustering
