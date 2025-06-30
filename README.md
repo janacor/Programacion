@@ -9,16 +9,16 @@ Introducción al Machine Learning
 
 NumPy
 
-[NumPy](https://github.com/janacor/Programacion/blob/main/numpy1.ipynb)
+  [NumPy](https://github.com/janacor/Programacion/blob/main/numpy1.ipynb)
 
 
-[Álgebra con NumPy](https://github.com/janacor/Programacion/blob/main/numpy2_algebra.ipynb)
+  [Álgebra con NumPy](https://github.com/janacor/Programacion/blob/main/numpy2_algebra.ipynb)
 
 Pandas
 
-Introducción, Series y estructura de DataFrame
+  [Introducción, Series y estructura de DataFrame](https://github.com/janacor/Programacion/blob/main/pandas1.ipynb)
 
-Operaciones con DataFrames
+  [Operaciones con DataFrames](https://github.com/janacor/Programacion/blob/main/pandas_dataframe_op.ipynb)
 
 Algoritmos básicos de machine learning
 
