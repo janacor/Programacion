@@ -55,11 +55,12 @@ Apuntes y ejemplos
 - [Entrenamiento y evaluación del modelo](https://github.com/janacor/Programacion/blob/main/e2e070_model_evaluation.ipynb)
 - [Optimización de hiperparámetros](https://github.com/janacor/Programacion/blob/main/e2e080_hyperparameters.ipynb)
 - [Probando más parámetros con RandomizedSearchCV](https://github.com/janacor/Programacion/blob/main/e2e081_hyperparameters_tarea.ipynb)\
+
 **Otro problema de regresión: esperanza de vida**
-- [Análisis de datos]
-- [Análisis de preprocesamiento de datos (en particular valores perdidos)]
-- [Pipeline de entrenamiento y evaluación de modelos]
-- [Aplicación simple para poner en producción el modelo]
+- [Análisis de datos](https://github.com/janacor/Programacion/blob/main/1_framing_eda.ipynb)
+- [Análisis de preprocesamiento de datos (en particular valores perdidos)](https://github.com/janacor/Programacion/blob/main/2_missing_values.ipynb)
+- [Pipeline de entrenamiento y evaluación de modelos](https://github.com/janacor/Programacion/blob/main/3_pipeline.ipynb)
+- [Aplicación simple para poner en producción el modelo](https://github.com/janacor/Programacion/blob/main/life_expectancy_app.py)
 Clasificación de MNIST con SVM y evaluación de modelos de clasificación\
 - [Clasificación de MNIST con SVM y evaluación de modelos de clasificación]
 Clasificación: enfermedades de tiroides
