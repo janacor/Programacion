@@ -5,9 +5,9 @@ Apuntes y ejemplos
 Introducción y tecnologías básicas
 Setup y tecnologías que utilizaremos
 
-Introducción al Machine Learning
+#_Introducción al Machine Learning_
 
-NumPy
+**NumPy**
 
 - [NumPy](https://github.com/janacor/Programacion/blob/main/numpy1.ipynb)
 - [Álgebra con NumPy](https://github.com/janacor/Programacion/blob/main/numpy2_algebra.ipynb)
