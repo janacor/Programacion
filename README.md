@@ -44,10 +44,10 @@ Precio medio de viviendas por distrito de California (regresión)
 - [Conjuntos de entrenamiento y de prueba](https://github.com/janacor/Programacion/blob/main/e2e020_train_test.ipynb)
 - [Exploración de datos y feature engineering manual](https://github.com/janacor/Programacion/blob/main/e2e030_eda.ipynb)
 - Preprocesamiento de datos
-  - [Tratamiento de valores no disponibles]
-  - [Tratamiento de features categóricas]
-  - [Escalamiento de features]
-  - [Pipeline de preprocesamiento]
+  - [Tratamiento de valores no disponibles](https://github.com/janacor/Programacion/blob/main/e2e041_missing.ipynb)
+  - [Tratamiento de features categóricas](https://github.com/janacor/Programacion/blob/main/e2e042_categorical.ipynb)
+  - [Escalamiento de features](https://github.com/janacor/Programacion/blob/main/e2e043_scaling.ipynb)
+  - [Pipeline de preprocesamiento](https://github.com/janacor/Programacion/blob/main/e2e050_pipelines.ipynb)
     - Tipos de estimadores en scikit-learn
     - Clarificando: ¿qué es un pipeline?
   - Transformadores personalizados
