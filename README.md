@@ -89,9 +89,13 @@ Apuntes y ejemplos
 
 **Recursos**
 Repositorios de tareas
-Playlist con explicaciones de clases
+[Playlist con explicaciones de clases](https://www.youtube.com/playlist?list=PLb-SkCRlWLK2B-rrVZ_QOp_27lF6MGcsG)
 
 **Recursos adicionales externos**
-- Data Science cheatsheet
+- [Data Science cheatsheet](https://github.com/janacor/Programacion/blob/main/data-science-cheatsheet.pdf)
 - Apuntes sobre probabilidad bayesiana
+    - [Nociones básicas de probabilidad](https://github.com/janacor/Programacion/blob/main/probabilidad.md)
+    - [Teorema de Bayes](https://github.com/janacor/Programacion/blob/main/bayes.md)
+    - [Aplicación del teorema de Bayes a un test diagnóstico](https://github.com/janacor/Programacion/blob/main/bayes-test-diagnostico.md)
+    - [Aplicación del teorema de Bayes a un test diagnóstico (solución tarea)](https://github.com/janacor/Programacion/blob/main/solucion_tarea_cancer.md)
 - Basic Mathemathics for Machine Learning
