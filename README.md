@@ -9,10 +9,8 @@ Introducción al Machine Learning
 
 NumPy
 
-  [NumPy](https://github.com/janacor/Programacion/blob/main/numpy1.ipynb)
-
-
-  [Álgebra con NumPy](https://github.com/janacor/Programacion/blob/main/numpy2_algebra.ipynb)
+- [NumPy](https://github.com/janacor/Programacion/blob/main/numpy1.ipynb)
+- [Álgebra con NumPy](https://github.com/janacor/Programacion/blob/main/numpy2_algebra.ipynb)
 
 Pandas
 
