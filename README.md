@@ -16,16 +16,27 @@ NumPy
 Pandas
 
 Introducción, Series y estructura de DataFrame
+
 Operaciones con DataFrames
+
 Algoritmos básicos de machine learning
+
 K-Nearest Neighbors (KNN)
+
 Regresión lineal simple
+
 Clasificación con regresión logística
+
 Árboles de decisión
+
 Clustering con K-means
+
 Modelos simples con Scikit-learn
+
 Conjuntos de entrenamiento y test / Overfitting
+
 Clasificación
+
 Regresión logística sobre Iris Toy Dataset de Scikit-learn
 Comparación de algoritmos de clasificación
 Regresión
