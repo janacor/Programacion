@@ -1,16 +1,18 @@
 # Programacion
 
-Inteligencia Artificial - 2024/25\n
-Apuntes y ejemplos\n
-Introducción y tecnologías básicas\n
-Setup y tecnologías que utilizaremos\n
+Inteligencia Artificial - 2024/25
+Apuntes y ejemplos
+Introducción y tecnologías básicas
+Setup y tecnologías que utilizaremos
 
-Introducción al Machine Learning\n
+Introducción al Machine Learning
+
+NumPy
 
 NumPy
 
-NumPy
 Álgebra con NumPy
+
 Pandas
 
 Introducción, Series y estructura de DataFrame
