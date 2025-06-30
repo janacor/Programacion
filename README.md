@@ -31,9 +31,9 @@ Apuntes y ejemplos
 **Modelos simples con Scikit-learn**
 
 - [Conjuntos de entrenamiento y test / Overfitting](https://github.com/janacor/Programacion/blob/main/regresion_overfitting.ipynb)
-Clasificación
-    - Regresión logística sobre Iris Toy Dataset de Scikit-learn
-    - Comparación de algoritmos de clasificación
+- Clasificación
+    - [Regresión logística sobre Iris Toy Dataset de Scikit-learn](https://github.com/janacor/Programacion/blob/main/iris_clustering.ipynb)
+    - [Comparación de algoritmos de clasificación](https://github.com/janacor/Programacion/blob/main/iris_comparison_cv.py)
 Regresión
         - Regresión lineal sobre diabetes Toy Dataset de Scikit-learn
 Clustering
