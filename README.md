@@ -30,7 +30,7 @@ Apuntes y ejemplos
 
 **Modelos simples con Scikit-learn**
 
-Conjuntos de entrenamiento y test / Overfitting\
+Conjuntos de entrenamiento y test / Overfitting\<br>
 Clasificación
     - Regresión logística sobre Iris Toy Dataset de Scikit-learn
     - Comparación de algoritmos de clasificación\
