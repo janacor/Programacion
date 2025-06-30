@@ -30,14 +30,19 @@ Apuntes y ejemplos
 
 **Modelos simples con Scikit-learn**
 
-Conjuntos de entrenamiento y test / Overfitting\
+Conjuntos de entrenamiento y test / Overfitting
 Clasificación
+
     - Regresión logística sobre Iris Toy Dataset de Scikit-learn
+
     - Comparación de algoritmos de clasificación
 Regresión
-    - Regresión lineal sobre diabetes Toy Dataset de Scikit-learn\
+    
+    - Regresión lineal sobre diabetes Toy Dataset de Scikit-learn
 Clustering
+    
     - Clustering de Iris con K-means y comparación con etiquetas
+
 Precio medio de viviendas por distrito de California (regresión)
 - Enmarcando un proyecto de machine learning
 - Conjuntos de entrenamiento y de prueba
