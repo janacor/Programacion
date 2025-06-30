@@ -2,10 +2,9 @@
 
 Inteligencia Artificial - 2024/25
 Apuntes y ejemplos
-Introducción y tecnologías básicas
+# Introducción y tecnologías básicas
 Setup y tecnologías que utilizaremos
-
-# Introducción al Machine Learning
+[Introducción al Machine Learning](https://github.com/janacor/Programacion/blob/main/Introducci%C3%B3n%20a%20Machine%20Learning)
 
 **NumPy**
 
