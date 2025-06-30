@@ -34,10 +34,10 @@ Apuntes y ejemplos
 - Clasificación
     - [Regresión logística sobre Iris Toy Dataset de Scikit-learn](https://github.com/janacor/Programacion/blob/main/iris_clustering.ipynb)
     - [Comparación de algoritmos de clasificación](https://github.com/janacor/Programacion/blob/main/iris_comparison_cv.py)
-Regresión
-        - Regresión lineal sobre diabetes Toy Dataset de Scikit-learn
+- Regresión
+    - [Regresión lineal sobre diabetes Toy Dataset de Scikit-learn](https://github.com/janacor/Programacion/blob/main/diabetes_regression.ipynb)
 Clustering
-    - Clustering de Iris con K-means y comparación con etiquetas
+    - [Clustering de Iris con K-means y comparación con etiquetas](https://github.com/janacor/Programacion/blob/main/iris_clustering.ipynb)
 
 Precio medio de viviendas por distrito de California (regresión)
 - Enmarcando un proyecto de machine learning
