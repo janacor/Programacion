@@ -61,14 +61,17 @@ Apuntes y ejemplos
 - [Análisis de preprocesamiento de datos (en particular valores perdidos)](https://github.com/janacor/Programacion/blob/main/2_missing_values.ipynb)
 - [Pipeline de entrenamiento y evaluación de modelos](https://github.com/janacor/Programacion/blob/main/3_pipeline.ipynb)
 - [Aplicación simple para poner en producción el modelo](https://github.com/janacor/Programacion/blob/main/life_expectancy_app.py)
-Clasificación de MNIST con SVM y evaluación de modelos de clasificación\
-- [Clasificación de MNIST con SVM y evaluación de modelos de clasificación]
-Clasificación: enfermedades de tiroides
-- Análisis de datos
--Modelo de clasificación
-- Variante binaria
-- Comprobando otros modelos
-Redes neuronales
+
+**Clasificación de MNIST con SVM y evaluación de modelos de clasificación**
+- [Clasificación de MNIST con SVM y evaluación de modelos de clasificación](https://github.com/janacor/Programacion/blob/main/mnist_svm_eval.ipynb)
+
+**Clasificación: enfermedades de tiroides**
+- [Análisis de datos](https://github.com/janacor/Programacion/blob/main/eda.ipynb)
+- [Modelo de clasificación](https://github.com/janacor/Programacion/blob/main/thyroid.ipynb)
+- [Variante binaria](https://github.com/janacor/Programacion/blob/main/thyroid_binary.ipynb)
+- [Comprobando otros modelos](https://github.com/janacor/Programacion/blob/main/thyroid2.ipynb)
+
+**Redes neuronales**
 - Introducción a redes neuronales
 - Introducción a PyTorch y tensores
 - Ejemplo completo de clasificación de Fashion MNIST
@@ -83,10 +86,12 @@ Redes neuronales
         - URL con la API desplegada para testeo
 -Regresión en dataset "California housing"
 -Clasificación de enfermedades de tiroides
-Recursos
-Repositorios de tareas\
-Playlist con explicaciones de clases\
-Recursos adicionales externos\
-Data Science cheatsheet\
-Apuntes sobre probabilidad bayesiana\
-Basic Mathemathics for Machine Learning\
+
+**Recursos**
+Repositorios de tareas
+Playlist con explicaciones de clases
+
+**Recursos adicionales externos**
+- Data Science cheatsheet
+- Apuntes sobre probabilidad bayesiana
+- Basic Mathemathics for Machine Learning
