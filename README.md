@@ -11,25 +11,25 @@ Apuntes y ejemplos
 - [NumPy](https://github.com/janacor/Programacion/blob/main/numpy1.ipynb)
 - [Álgebra con NumPy](https://github.com/janacor/Programacion/blob/main/numpy2_algebra.ipynb)
 
-Pandas
+**Pandas**
 
   [Introducción, Series y estructura de DataFrame](https://github.com/janacor/Programacion/blob/main/pandas1.ipynb)
 
   [Operaciones con DataFrames](https://github.com/janacor/Programacion/blob/main/pandas_dataframe_op.ipynb)
 
-Algoritmos básicos de machine learning
+**Algoritmos básicos de machine learning**
 
-K-Nearest Neighbors (KNN)
+- K-Nearest Neighbors (KNN)
 
-Regresión lineal simple
+- Regresión lineal simple
 
-Clasificación con regresión logística
+- Clasificación con regresión logística
 
-Árboles de decisión
+- Árboles de decisión
 
-Clustering con K-means
+- Clustering con K-means
 
-Modelos simples con Scikit-learn
+**Modelos simples con Scikit-learn**
 
 Conjuntos de entrenamiento y test / Overfitting
 
