@@ -48,41 +48,41 @@ Precio medio de viviendas por distrito de California (regresión)
   - [Tratamiento de features categóricas](https://github.com/janacor/Programacion/blob/main/e2e042_categorical.ipynb)
   - [Escalamiento de features](https://github.com/janacor/Programacion/blob/main/e2e043_scaling.ipynb)
   - [Pipeline de preprocesamiento](https://github.com/janacor/Programacion/blob/main/e2e050_pipelines.ipynb)
-    - Tipos de estimadores en scikit-learn
-    - Clarificando: ¿qué es un pipeline?
-  - Transformadores personalizados
-  - Tratamiento de latitud y longitud\
-- Entrenamiento y evaluación del modelo\
-- Optimización de hiperparámetros\
-- Probando más parámetros con RandomizedSearchCV\
+    - [Tipos de estimadores en scikit-learn](https://github.com/janacor/Programacion/blob/main/tipos_estimadores.md)
+    - [Clarificando: ¿qué es un pipeline?](https://github.com/janacor/Programacion/blob/main/pipeline_definition.md)
+  - [Transformadores personalizados](https://github.com/janacor/Programacion/blob/main/e2e051_custom_transformers.ipynb)
+  - [Tratamiento de latitud y longitud](https://github.com/janacor/Programacion/blob/main/e2e060_spatial_clustering.ipynb)
+- [Entrenamiento y evaluación del modelo](https://github.com/janacor/Programacion/blob/main/e2e070_model_evaluation.ipynb)
+- [Optimización de hiperparámetros](https://github.com/janacor/Programacion/blob/main/e2e080_hyperparameters.ipynb)
+- [Probando más parámetros con RandomizedSearchCV](https://github.com/janacor/Programacion/blob/main/e2e081_hyperparameters_tarea.ipynb)
 Otro problema de regresión: esperanza de vida\
-Análisis de datos\
-Análisis de preprocesamiento de datos (en particular valores perdidos)\
-Pipeline de entrenamiento y evaluación de modelos\
-Aplicación simple para poner en producción el modelo\
+- [Análisis de datos]
+- [Análisis de preprocesamiento de datos (en particular valores perdidos)]
+- [Pipeline de entrenamiento y evaluación de modelos]
+- [Aplicación simple para poner en producción el modelo]
 Clasificación de MNIST con SVM y evaluación de modelos de clasificación\
-Clasificación de MNIST con SVM y evaluación de modelos de clasificación\
-Clasificación: enfermedades de tiroides\
-Análisis de datos\
-Modelo de clasificación\
-Variante binaria\
-Comprobando otros modelos\
-Redes neuronales\
-Introducción a redes neuronales\
-Introducción a PyTorch y tensores\
-Ejemplo completo de clasificación de Fashion MNIST\
-Explicación de modelos y capas lineales\
-Ejemplo simple de clasificación de Iris con NN\
-Clasificación de MNIST con FNN\
-Introducción a redes convolucionales\
-Clasificación de MNIST con CNN\
-Clasificación de CIFAR-10 en escala de grises con redes neuronales\
-Clasificación de CIFAR-10\
-Depliegue del modelo en una API Rest con FastAPI\
-URL con la API desplegada para testeo\
-Regresión en dataset "California housing"\
-Clasificación de enfermedades de tiroides\
-Recursos\
+- [Clasificación de MNIST con SVM y evaluación de modelos de clasificación]
+Clasificación: enfermedades de tiroides
+- Análisis de datos
+-Modelo de clasificación
+- Variante binaria
+- Comprobando otros modelos
+Redes neuronales
+- Introducción a redes neuronales
+- Introducción a PyTorch y tensores
+- Ejemplo completo de clasificación de Fashion MNIST
+- Explicación de modelos y capas lineales
+- Ejemplo simple de clasificación de Iris con NN
+- Clasificación de MNIST con FNN
+- Introducción a redes convolucionales
+- Clasificación de MNIST con CNN
+- Clasificación de CIFAR-10 en escala de grises con redes neuronales
+- Clasificación de CIFAR-10
+    - Depliegue del modelo en una API Rest con FastAPI
+        - URL con la API desplegada para testeo
+-Regresión en dataset "California housing"
+-Clasificación de enfermedades de tiroides
+Recursos
 Repositorios de tareas\
 Playlist con explicaciones de clases\
 Recursos adicionales externos\
