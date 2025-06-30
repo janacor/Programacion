@@ -40,14 +40,14 @@ Apuntes y ejemplos
     - [Clustering de Iris con K-means y comparación con etiquetas](https://github.com/janacor/Programacion/blob/main/iris_clustering.ipynb)
 
 Precio medio de viviendas por distrito de California (regresión)
-- Enmarcando un proyecto de machine learning
-- Conjuntos de entrenamiento y de prueba
-- Exploración de datos y feature engineering manual
+- [Enmarcando un proyecto de machine learning](https://github.com/janacor/Programacion/blob/main/e2e010_framing.ipynb)
+- [Conjuntos de entrenamiento y de prueba](https://github.com/janacor/Programacion/blob/main/e2e020_train_test.ipynb)
+- [Exploración de datos y feature engineering manual](https://github.com/janacor/Programacion/blob/main/e2e030_eda.ipynb)
 - Preprocesamiento de datos
-  - Tratamiento de valores no disponibles
-  - Tratamiento de features categóricas
-  - Escalamiento de features
-  - Pipeline de preprocesamiento
+  - [Tratamiento de valores no disponibles]
+  - [Tratamiento de features categóricas]
+  - [Escalamiento de features]
+  - [Pipeline de preprocesamiento]
     - Tipos de estimadores en scikit-learn
     - Clarificando: ¿qué es un pipeline?
   - Transformadores personalizados
