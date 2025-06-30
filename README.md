@@ -5,7 +5,7 @@ Apuntes y ejemplos
 Introducción y tecnologías básicas
 Setup y tecnologías que utilizaremos
 
-#_Introducción al Machine Learning_
+# Introducción al Machine Learning
 
 **NumPy**
 
