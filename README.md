@@ -72,20 +72,20 @@ Apuntes y ejemplos
 - [Comprobando otros modelos](https://github.com/janacor/Programacion/blob/main/thyroid2.ipynb)
 
 **Redes neuronales**
-- Introducción a redes neuronales
-- Introducción a PyTorch y tensores
-- Ejemplo completo de clasificación de Fashion MNIST
-- Explicación de modelos y capas lineales
-- Ejemplo simple de clasificación de Iris con NN
-- Clasificación de MNIST con FNN
-- Introducción a redes convolucionales
-- Clasificación de MNIST con CNN
-- Clasificación de CIFAR-10 en escala de grises con redes neuronales
-- Clasificación de CIFAR-10
+- [Introducción a redes neuronales](https://github.com/janacor/Programacion/blob/main/neural_networks.md)
+- [Introducción a PyTorch y tensores](https://github.com/janacor/Programacion/blob/main/01_pytorch.ipynb)
+- [Ejemplo completo de clasificación de Fashion MNIST](https://github.com/janacor/Programacion/blob/main/02_FashionMNIST.ipynb)
+- [Explicación de modelos y capas lineales](https://github.com/janacor/Programacion/blob/main/pytorch_models.ipynb)
+- [Ejemplo simple de clasificación de Iris con NN](https://github.com/janacor/Programacion/blob/main/pytorch_iris.ipynb)
+- [Clasificación de MNIST con FNN](https://github.com/janacor/Programacion/blob/main/FNN_MNIST.ipynb)
+- [Introducción a redes convolucionales](https://github.com/janacor/Programacion/blob/main/convoluciones.ipynb)
+- [Clasificación de MNIST con CNN](https://github.com/janacor/Programacion/blob/main/CNN_MNIST.ipynb)
+- [Clasificación de CIFAR-10 en escala de grises con redes neuronales](https://github.com/janacor/Programacion/blob/main/CIFAR10_gray.ipynb)
+- Clasificación de CIFAR-10(https://github.com/janacor/Programacion/blob/main/CIFAR-10.ipynb)
     - Depliegue del modelo en una API Rest con FastAPI
         - URL con la API desplegada para testeo
--Regresión en dataset "California housing"
--Clasificación de enfermedades de tiroides
+- [Regresión en dataset "California housing"](https://github.com/janacor/Programacion/blob/main/e2e090_neural_network.ipynb)
+- [Clasificación de enfermedades de tiroides](https://github.com/janacor/Programacion/blob/main/thyroid3.ipynb)
 
 **Recursos**
 Repositorios de tareas
