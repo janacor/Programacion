@@ -8,7 +8,7 @@ Apuntes y ejemplos
 
 **NumPy**
 
-- [NumPy](https://github.com/janacor/Programacion/blob/main/numpy1.ipynb)
+- [NumPy](https://github.com/janacor/Programacion/blob/main/numpy1.ipynb) / [Cheat_Sheet](https://github.com/janacor/Programacion/blob/main/Numpy_Cheat_Sheet.pdf)
 - [Álgebra con NumPy](https://github.com/janacor/Programacion/blob/main/numpy2_algebra.ipynb)
 
 **Pandas**
