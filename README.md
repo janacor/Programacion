@@ -9,7 +9,8 @@ Introducción al Machine Learning
 
 NumPy
 
-NumPy
+[NumPy](https://github.com/janacor/Programacion/blob/main/numpy1.ipynb)
+
 
 Álgebra con NumPy
 
