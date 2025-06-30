@@ -39,7 +39,7 @@ Apuntes y ejemplos
 - Clustering
     - [Clustering de Iris con K-means y comparación con etiquetas](https://github.com/janacor/Programacion/blob/main/iris_clustering.ipynb)
 
-Precio medio de viviendas por distrito de California (regresión)
+**Precio medio de viviendas por distrito de California (regresión)**
 - [Enmarcando un proyecto de machine learning](https://github.com/janacor/Programacion/blob/main/e2e010_framing.ipynb)
 - [Conjuntos de entrenamiento y de prueba](https://github.com/janacor/Programacion/blob/main/e2e020_train_test.ipynb)
 - [Exploración de datos y feature engineering manual](https://github.com/janacor/Programacion/blob/main/e2e030_eda.ipynb)
@@ -55,7 +55,7 @@ Precio medio de viviendas por distrito de California (regresión)
 - [Entrenamiento y evaluación del modelo](https://github.com/janacor/Programacion/blob/main/e2e070_model_evaluation.ipynb)
 - [Optimización de hiperparámetros](https://github.com/janacor/Programacion/blob/main/e2e080_hyperparameters.ipynb)
 - [Probando más parámetros con RandomizedSearchCV](https://github.com/janacor/Programacion/blob/main/e2e081_hyperparameters_tarea.ipynb)
-Otro problema de regresión: esperanza de vida\
+**Otro problema de regresión: esperanza de vida**
 - [Análisis de datos]
 - [Análisis de preprocesamiento de datos (en particular valores perdidos)]
 - [Pipeline de entrenamiento y evaluación de modelos]
