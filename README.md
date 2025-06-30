@@ -13,9 +13,8 @@ Apuntes y ejemplos
 
 **Pandas**
 
-  [Introducción, Series y estructura de DataFrame](https://github.com/janacor/Programacion/blob/main/pandas1.ipynb)
-
-  [Operaciones con DataFrames](https://github.com/janacor/Programacion/blob/main/pandas_dataframe_op.ipynb)
+- [Introducción, Series y estructura de DataFrame](https://github.com/janacor/Programacion/blob/main/pandas1.ipynb)
+- [Operaciones con DataFrames](https://github.com/janacor/Programacion/blob/main/pandas_dataframe_op.ipynb)
 
 **Algoritmos básicos de machine learning**
 
