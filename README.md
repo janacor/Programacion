@@ -41,21 +41,21 @@ Regresión lineal sobre diabetes Toy Dataset de Scikit-learn\
 Clustering\
 Clustering de Iris con K-means y comparación con etiquetas\
 Precio medio de viviendas por distrito de California (regresión)\
-Enmarcando un proyecto de machine learning\
-Conjuntos de entrenamiento y de prueba\
-Exploración de datos y feature engineering manual\
-Preprocesamiento de datos\
-Tratamiento de valores no disponibles\
-Tratamiento de features categóricas\
-Escalamiento de features\
-Pipeline de preprocesamiento\
-Tipos de estimadores en scikit-learn\
-Clarificando: ¿qué es un pipeline?\
-Transformadores personalizados\
-Tratamiento de latitud y longitud\
-Entrenamiento y evaluación del modelo\
-Optimización de hiperparámetros\
-Probando más parámetros con RandomizedSearchCV\
+- Enmarcando un proyecto de machine learning\
+- Conjuntos de entrenamiento y de prueba\
+- Exploración de datos y feature engineering manual\
+- Preprocesamiento de datos\
+  - Tratamiento de valores no disponibles\
+  - Tratamiento de features categóricas\
+  - Escalamiento de features\
+  - Pipeline de preprocesamiento\
+    - Tipos de estimadores en scikit-learn\
+    - Clarificando: ¿qué es un pipeline?\
+  - Transformadores personalizados\
+  - Tratamiento de latitud y longitud\
+- Entrenamiento y evaluación del modelo\
+- Optimización de hiperparámetros\
+- Probando más parámetros con RandomizedSearchCV\
 Otro problema de regresión: esperanza de vida\
 Análisis de datos\
 Análisis de preprocesamiento de datos (en particular valores perdidos)\
