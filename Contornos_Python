@@ -1,0 +1,79 @@
+# Contornos e Aplicaciones Actuales de Python #
+
+Python es un lenguaje de programación de código abierto, orientado a objetos, de alto nivel y de propósito general.
+Python se aplica ampliamente en ciencia de datos, análisis de datos, aprendizaje automático, ingeniería de datos, desarrollo web, desarrollo de software y otros campos. 
+Python se destaca por varias características clave:
+•	Legibilidad: su sintaxis sencilla y directa hace que leer y entender el código sea más fácil.
+•	Versatilidad: puede ser utilizado en una amplia gama de aplicaciones y disciplinas.
+•	Comunidad activa: una gran comunidad de desarrolladores y usuarios que contribuyen con bibliotecas, tutoriales y soporte.
+•	Compatibilidad: python es compatible con la mayoría de las plataformas y de los sistemas operativos disponibles.
+Python se utiliza habitualmente en plataformas y servicios de internet como Netflix, Instagram, Spotify y Dropbox, así como en aplicaciones de Google y Amazon Web Services. Se emplea para desarrollo web (backend), análisis de datos, aprendizaje automático y automatización. 
+Veamos empresas de tecnología y principales plataformas de Python
+
+EMPRESAS DE TECNOLOGÍA
+
+
+Google: Se usa como componente del motor de búsqueda. 
+Netflix: Emplea Python para el backend, el aprendizaje automático, el análisis de datos y la automatización de tareas. 
+Instagram: El backend de la aplicación funciona en gran medida con el framework web Django, que está escrito en Python. 
+Spotify: Utiliza Python para el análisis de datos y la personalización de recomendaciones. 
+	PLATAFORMAS DE DESARROLLO Y NUBE
+
+ 	Amazon Web Services (AWS): Proporciona una gama de servicios que soportan el lenguaje. 
+ 	Google Colab: Una plataforma en línea popular para ejecutar código Python. 
+ 	Replit: Un entorno de desarrollo integrado en la nube. 
+
+ 	PythonAnywhere: Ofrece un entorno para desarrollar y ejecutar aplicaciones web en Python. 
+ 	Jupyter Notebook: Una aplicación web interactiva ideal para trabajar con Python en ciencia de datos. 
+ 	Visual Studio Code: Un editor de código popular y fácil de usar que es compatible con Python. 
+
+Dropbox: Aplica Python para optimizar el servidor y la interfaz externa. 
+Uber: Usa Python en su aplicación para el procesamiento de datos y otros servicios. 
+PLATAFORMAS DE DESARROLLO Y NUBE
+
+PARA QUE SE USA PYTHON
+________________________________________
+Python se utiliza en algunos marcos comunes (como Django o Flask), que tienen módulos especializados incorporados que permiten compartir datos con servidores, procesar información, acceder a bases de datos, enrutar URL, gestionar contenidos y mantener la seguridad del sitio web. En los últimos años, se ha  visto un uso creciente de FastAPI para desarrollar APIs, debido a su rendimiento y facilidad de uso.
+•	Frameworks: Django, Flask, FastAPI
+•	Aplicacións robustas, escalables e seguras (Google, Facebook, Instagram, YouTube, Dropbox y Reddit)
+________________________________________
+Es especialmente valioso porque, además de su completa biblioteca estándar, proporciona una impresionante colección de módulos adicionales diseñados específicamente para fines analíticos. 
+Las bibliotecas de Python más famosas para realizar análisis de datos son pandas y NumPy. Estas herramientas te permiten hacer casi todo con tus datos, como limpiarlos y manipularlos, explorar estadísticas o visualizar tendencias ocultas en tus datos.
+Aparte de estas dos bibliotecas, puedes utilizar muchas otras para diversas tareas relacionadas con los datos, como la visualización de datos, el web scraping o la comprobación de hipótesis.
+•	Librerías: NumPy, Pandas, TensorFlow, PyTorch, scikit-learn, Matplotlib
+•	Aplicación: Análisis de datos, machine learning, deep learning
+________________________________________   Es una gran herramienta para escribir programas que automaticen tareas repetitivas, un proceso también conocido como scripting. 
+También puedes utilizar la automatización de Python para buscar y descargar información de Internet, rellenar y enviar formularios online, y enviar notificaciones o correos electrónicos periódicamente. Python también desempeña un papel importante en DevOps e Infraestructura como Código (IaC), utilizando bibliotecas como Ansible y Terraform.
+•	Scripts de automatización e xestión de servidores, xestión de redes e tarefas repetitivas
+•	Automatización en AWS, Azure, Google Cloud
+•	Ferramentas: Ansible, Fabric
+
+ IA y aprendizaje profundo  desempeña un papel central en la IA y el aprendizaje profundo, impulsando avances en tecnologías como el procesamiento del lenguaje natural (PLN) y la visión por ordenador. Estos dominios están experimentando un crecimiento significativo, y el ecosistema de bibliotecas y marcos de Python lo convierte en el lenguaje de referencia para desarrollar soluciones de IA.
+Bibliotecas como spaCy, NLTK y Hugging Face Transformers permiten tareas como el análisis de sentimientos, la traducción de idiomas, el resumen de textos y el desarrollo de chatbot. 
+•	Reconocimiento facial, la detección de objetos, la clasificación de imágenes y el análisis de vídeo 
+•	Ferramentas: OpenCV, PyTorch y TensorFlow
+________________________________________
+ Desarrollo de Software  Se utiliza en cada etapa del desarrollo de software, incluido el control de compilación, la compilación continua automatizada, la creación de prototipos, el seguimiento de errores, las pruebas y el mantenimiento de software. 
+La flexibilidad y potencia de este lenguaje de programación permiten crear aplicaciones multiprotocolo relativamente sencillas y muy avanzadas o que impliquen cálculos numéricos complejos. 
+•	Programas de audio o vídeo basados en técnicas de IA o ML, API (interfaces de programación de aplicaciones), GUI (interfaces gráficas de usuario) o cualquier otro tipo de software. 
+•	Frameworks: Tkinter, PyQt, Kivy, BeeWare
+________________________________________
+
+
+
+
+ IoT y Robótica  se utiliza habitualmente en IoT para monitoreo en tiempo real, Procesamiento y análisis de datos y Automatización de reportes,  y en robótica principalmente para el control de robots a través de plataformas como ROS (Robot Operating System), la automatización de tareas, el procesamiento de datos de sensores y el monitoreo en tiempo real. 
+
+•	Control de dispositivos e placas como Raspberry Pi, Arduino
+•	Uso de MicroPython, CircuitPython
+________________________________________
+ Multimedia y videojuegos  Permite desarrollar juegos y aplicaciones multimedia de forma rápida y eficiente gracias a su sintaxis sencilla, bibliotecas especializadas (Pygame, Panda3D, Godot), compatibilidad multiplataforma y una amplia comunidad. Es ideal tanto para prototipos 2D/3D como para aplicaciones interactivas complejas.
+
+•	Prototipado e desenvolvemento de xogos 2D/3D
+•	Bibliotecas: Pygame, Panda3D, Godot
+
+Blibliografia
+https://adalab.es/blog/python-que-es/
+https://www.datacamp.com/es/blog/what-is-python-used-for
+https://www.google.com/
+https://www.pygame.org/wiki/tutorials
